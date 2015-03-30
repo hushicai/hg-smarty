@@ -1,6 +1,12 @@
-# smarty-mock-service
+# hg-smarty
 
 smarty mock service
+
+## premise
+
+```bash
+npm install -g hg
+```
 
 ## usage
 
