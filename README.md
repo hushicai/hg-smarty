@@ -1,2 +1,10 @@
-# hg-smarty
+# smarty-mock-service
+
 smarty mock service
+
+## usage
+
+```bash
+cd /path/to/project
+hg install hg-smarty
+```
