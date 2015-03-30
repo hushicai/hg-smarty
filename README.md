@@ -6,5 +6,5 @@ smarty mock service
 
 ```bash
 cd /path/to/project
-hg install hg-smarty
+hg install hushicia@hg-smarty
 ```
