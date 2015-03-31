@@ -1,6 +1,7 @@
 {
     "files": [
         "php",
-        "smarty"
+        "smarty",
+        "mock/!(templates_c)"
     ]
 }
