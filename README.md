@@ -2,15 +2,15 @@
 
 smarty mock service
 
-## premise
+## test
 
 ```bash
-npm install -g hg
 ```
 
 ## usage
 
 ```bash
+npm install -g hg
 cd /path/to/project
 hg install hushicia@hg-smarty
 ```
