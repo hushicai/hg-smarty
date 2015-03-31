@@ -5,7 +5,11 @@ smarty mock service
 ## test
 
 ```bash
+npm install
+node server.js
 ```
+
+Now, you can visit [http://localhost:8888/mock/test.php](http://localhost:8888/mock/test.php) to check results.
 
 ## usage
 
